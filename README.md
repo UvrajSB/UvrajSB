@@ -10,9 +10,9 @@
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=UvrajSB.UvrajSB)
-<!-- 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="300" /> -->
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+
+<img align="right" alt="GIF" src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="408" height="300" />
+
  
 <!-- **Talking about Personal Stuffs:**
 
