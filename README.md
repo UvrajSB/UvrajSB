@@ -1,5 +1,5 @@
 
-- ### Hello, This is Yuvraj singh bhadauria  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello, This is Yuvraj singh bhadauria  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
 <a href="mailto:mryuvrajsbhadauria@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
@@ -9,9 +9,9 @@
 
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=UvrajSB.UvrajSB)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=UvrajSB)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="408" height="300" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="200" />
 
  
 <!-- **Talking about Personal Stuffs:**
@@ -20,8 +20,8 @@
 - 🚀 I’m currently learning and Practise Android Devlopment and Rest Api Devlopment;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: akasaudhan02@gmail.com; -->
-
-</br>
+<!-- 
+</br> -->
 <!-- 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -32,7 +32,6 @@ No Activity tracked this Week
 
 
 📈**My GitHub Stats:**
-
 <p>
   <img height="auto" src="https://activity-graph.herokuapp.com/graph?username=UvrajSB&theme=react-dark" />
 </p>
