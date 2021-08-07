@@ -28,6 +28,7 @@
 <!-- START_SECTION:waka -->
 ```text
 Building the foundation of shopping app.
+Finishing up the code of Forge'it app.
 ```
 <!-- END_SECTION:waka -->
 
