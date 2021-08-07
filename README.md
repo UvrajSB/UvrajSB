@@ -18,9 +18,11 @@
 
 - 👨🏻‍💻 I’m a native android developer
 - 🚀 I’m currently working on 3 projects
- -- Forget'it
- -- Resolute
- -- Shopping app
+ - Forget'it (Get it soon on playstore)
+ - Shoppingio app
+  *https://github.com/UvrajSB/Shoppingio*
+ - Resolute
+
 - I am open for any collaboration, feel free to reach out to me at *mryuvrajsbhadauria@gmail.com*
 </br>
 
