@@ -11,7 +11,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=UvrajSB.UvrajSB)
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="408" height="300" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="408" height="300" />
 
  
 <!-- **Talking about Personal Stuffs:**
