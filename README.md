@@ -11,7 +11,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=UvrajSB)
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800" height="400" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200" />
 
  
 <!-- **Talking about Personal Stuffs:**
@@ -22,13 +22,12 @@
 - 📫 How to reach me: akasaudhan02@gmail.com; -->
 <!-- 
 </br> -->
-<!-- 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
+START_SECTION:waka
 ```text
 No Activity tracked this Week
 ```
-<!--END_SECTION:waka--> -->
+END_SECTION:waka
 
 
 📈**My GitHub Stats:**
