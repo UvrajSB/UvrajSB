@@ -22,8 +22,9 @@
  -- Resolute
  -- Shopping app
 - I am open for any collaboration, feel free to reach out to me at *mryuvrajsbhadauria@gmail.com*
-</br>-->
-📊 **Currently working on: **
+</br>
+
+📊 *Currently working on:*
 <!-- START_SECTION:waka -->
 ```text
 Building the foundation of shopping app.
