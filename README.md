@@ -16,14 +16,14 @@
  
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m a native android developer;
-- 🚀 I’m currently working on 3 projects;
-- Forget'it
-- Resolute
-- Shopping app
+- 👨🏻‍💻 I’m a native android developer
+- 🚀 I’m currently working on 3 projects
+ -- Forget'it
+ -- Resolute
+ -- Shopping app
 - I am open for any collaboration, feel free to reach out to me at *mryuvrajsbhadauria@gmail.com*
-</br> -->
-📊 **This Week I Spent My Time On:**
+</br> 
+📊 **Currently working on: **
 <!-- START_SECTION:waka -->
 ```text
 Building the foundation of shopping app.
