@@ -14,20 +14,21 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200" />
 
  
-<!-- **Talking about Personal Stuffs:**
+**Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning and Practise Android Devlopment and Rest Api Devlopment;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: akasaudhan02@gmail.com; -->
-<!-- 
+- 👨🏻‍💻 I’m a native android developer;
+- 🚀 I’m currently working on 3 projects;
+- Forget'it
+- Resolute
+- Shopping app
+- I am open for any collaboration, feel free to reach out to me at *mryuvrajsbhadauria@gmail.com*
 </br> -->
 📊 **This Week I Spent My Time On:**
-START_SECTION:waka
+<!-- START_SECTION:waka -->
 ```text
-No Activity tracked this Week
+Building the foundation of shopping app.
 ```
-END_SECTION:waka
+<!-- END_SECTION:waka -->
 
 
 📈**My GitHub Stats:**
