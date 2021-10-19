@@ -16,23 +16,12 @@
  
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m a native android developer
-- 🚀 I’m currently working on 3 projects
- - Forget'it (Get it soon on playstore)
- - Shoppingio app
-  *https://github.com/UvrajSB/Shoppingio*
- - Resolute
+- 👨🏻‍💻 I’m a native android developer with good leadership skill and entrepreneurship mindset.
 
 - I am open for any collaboration, feel free to reach out to me at *mryuvrajsbhadauria@gmail.com*
 </br>
 
-📊 *Currently working on:*
-<!-- START_SECTION:waka -->
-```text
-Building the foundation of shopping app.
-Finishing up the code of Forge'it app.
-```
-<!-- END_SECTION:waka -->
+
 
 
 📈**My GitHub Stats:**
