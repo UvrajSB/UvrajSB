@@ -13,13 +13,6 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200" />
 
- 
-**Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m a native android developer with good leadership skill and entrepreneurship mindset.
-
-- I am open for any collaboration, feel free to reach out to me at *mryuvrajsbhadauria@gmail.com*
-</br>
 
 
 
