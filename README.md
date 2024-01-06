@@ -18,9 +18,7 @@
 
 
 📈**My GitHub Stats:**
-<p>
-  <img height="auto" src="https://activity-graph.herokuapp.com/graph?username=UvrajSB&theme=react-dark" />
-</p>
+
 
 | ![Yuvraj's github stats](https://github-readme-stats.vercel.app/api?username=UvrajSB&show_icons=true&theme=tokyonight) | ![Yuvraj's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UvrajSB&theme=tokyonight) |
 | --- | --- |
