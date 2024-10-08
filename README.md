@@ -10,16 +10,11 @@ Apart from that, I’ve really enjoyed working on native **Android app developme
 Oh, and here's a bit of a tangent but an exciting one—I’ve also worked with **Software Defined Radios**, low-powered sensing systems, and ubiquitous technologies. 📡🔋
 
 
-### Github Stats
----
-<img src="https://github-readme-stats.vercel.app/api?username={uvrajsb}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-
 ### Github Streaks
 ---
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvrajsb&theme=dark" width="48%" >
 
 ### I write in
-### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvrajsb&layout=compact)
 
 
