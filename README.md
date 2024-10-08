@@ -10,50 +10,6 @@ Apart from that, I’ve really enjoyed working on native **Android app developme
 Oh, and here's a bit of a tangent but an exciting one—I’ve also worked with **Software Defined Radios**, low-powered sensing systems, and ubiquitous technologies. 📡🔋
 
 
----
-Sadly some of these matrices don't count contributions to private repos 🥲
-
----
-## 📊 OSS Insight Stats
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=UvrajSB" target="_blank" style="display: block; margin-right: 10px;" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=73571511&image_size=auto&color_scheme=dark" width="600" height="auto">
-      <img alt="Dashboard stats of @UvrajSB" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=73571511&image_size=auto&color_scheme=light" width="600" height="auto">
-    </picture>
-  </a>
-
-  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=UvrajSB&period=all_times" target="_blank" style="display: block; margin-left: 10px;" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=73571511&period=all_times&image_size=auto&color_scheme=dark" width="600" height="auto">
-      <img alt="Contribution Time Distribution of @UvrajSB" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=73571511&period=all_times&image_size=auto&color_scheme=light" width="600" height="auto">
-    </picture>
-  </a>
-
-</div>
-
----
-
-## 🚀 GitHub Journey
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-
-  ![Metrics](https://metrics.lecoq.io/uvrajsb?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvrajsb&theme=tokyonight" width="460" height="auto" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-## 💻 Languages I Speak
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=uvrajsb&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-
----
-
 ## 😂 A Dose of Humor!
 
 Want a laugh? Check out some random jokes below! 
