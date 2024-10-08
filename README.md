@@ -1,11 +1,16 @@
-# Hey there, it's UV! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="[https://www.linkedin.com/in/dhanushkamadushan/](https://www.linkedin.com/in/yuvraj-singh-bhadauria-927a1b1b9/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-You are  visitor <img src="https://profile-counter.glitch.me/{uvrajsb}/count.svg" alt="uvrajsb :: Visitor's Count" />
+# Hey there, it's UV! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="https://www.linkedin.com/in/yuvraj-singh-bhadauria-927a1b1b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+You are visitor <img src="https://profile-counter.glitch.me/{uvrajsb}/count.svg" alt="uvrajsb :: Visitor's Count" />
+
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/5b009c08-d35a-4668-a1aa-2f43879d5c7f" align="right">
+
 
 Welcome to my little corner of GitHub! I enjoy working on privacy-centric AI approaches these days. My focus and experience lean more toward the **SysML** side of such architectures, while I’m also developing my expertise in core model optimization techniques. 🤖
 
 Apart from that, I’ve really enjoyed working on native **Android app development** 📱 and building backend systems in **Golang** for low-latency, high-throughput systems. 🚀
 
 Oh, and here's a bit of a tangent but an exciting one—I’ve also worked with **Software Defined Radios**, low-powered sensing systems, and ubiquitous technologies. 📡🔋
+
 
 ---
 Sadly most of these matrices don't count contributions to private repos 🥲
