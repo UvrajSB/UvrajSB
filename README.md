@@ -11,7 +11,7 @@ Oh, and here's a bit of a tangent but an exciting one—I’ve also worked with 
 
 
 ---
-Sadly most of these matrices don't count contributions to private repos 🥲
+Sadly some of these matrices don't count contributions to private repos 🥲
 
 ---
 ## 📊 OSS Insight Stats
