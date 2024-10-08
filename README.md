@@ -2,8 +2,6 @@
 
 You are visitor <img src="https://profile-counter.glitch.me/{uvrajsb}/count.svg" alt="uvrajsb :: Visitor's Count" />
 
-<img width="150" alt="image" src="https://github.com/user-attachments/assets/5b009c08-d35a-4668-a1aa-2f43879d5c7f" align="right">
-
 
 Welcome to my little corner of GitHub! I enjoy working on privacy-centric AI approaches these days. My focus and experience lean more toward the **SysML** side of such architectures, while I’m also developing my expertise in core model optimization techniques. 🤖
 
