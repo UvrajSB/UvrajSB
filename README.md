@@ -1,4 +1,5 @@
-# Hey there, it's UV! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there, it's UV! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="[https://www.linkedin.com/in/dhanushkamadushan/](https://www.linkedin.com/in/yuvraj-singh-bhadauria-927a1b1b9/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+You are  visitor <img src="https://profile-counter.glitch.me/{uvrajsb}/count.svg" alt="uvrajsb :: Visitor's Count" />
 
 Welcome to my little corner of GitHub! I enjoy working on privacy-centric AI approaches these days. My focus and experience lean more toward the **SysML** side of such architectures, while I’m also developing my expertise in core model optimization techniques. 🤖
 
@@ -7,7 +8,9 @@ Apart from that, I’ve really enjoyed working on native **Android app developme
 Oh, and here's a bit of a tangent but an exciting one—I’ve also worked with **Software Defined Radios**, low-powered sensing systems, and ubiquitous technologies. 📡🔋
 
 ---
+Sadly most of these matrices don't count contributions to private repos 🥲
 
+---
 ## 📊 OSS Insight Stats
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
@@ -30,11 +33,11 @@ Oh, and here's a bit of a tangent but an exciting one—I’ve also worked with 
 
 ---
 
-## 🚀 GitHub Journey & Streaks
+## 🚀 GitHub Journey
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=uvrajsb&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&custom_title=Yuvraj%20Singh's%20GitHub%20Stats" width="460" height="auto" alt="GitHub Stats" />
+  ![Metrics](https://metrics.lecoq.io/uvrajsb?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvrajsb&theme=tokyonight" width="460" height="auto" alt="GitHub Streak Stats" />
 
