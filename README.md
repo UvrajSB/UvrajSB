@@ -18,14 +18,14 @@ Sadly some of these matrices don't count contributions to private repos 🥲
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
 
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=73571511" target="_blank" style="display: block; margin-right: 10px;" align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=UvrajSB" target="_blank" style="display: block; margin-right: 10px;" align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=73571511&image_size=auto&color_scheme=dark" width="600" height="auto">
       <img alt="Dashboard stats of @UvrajSB" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=73571511&image_size=auto&color_scheme=light" width="600" height="auto">
     </picture>
   </a>
 
-  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=73571511&period=all_times" target="_blank" style="display: block; margin-left: 10px;" align="center">
+  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=UvrajSB&period=all_times" target="_blank" style="display: block; margin-left: 10px;" align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=73571511&period=all_times&image_size=auto&color_scheme=dark" width="600" height="auto">
       <img alt="Contribution Time Distribution of @UvrajSB" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=73571511&period=all_times&image_size=auto&color_scheme=light" width="600" height="auto">
