@@ -14,10 +14,6 @@ Oh, and here's a bit of a tangent but an exciting one—I’ve also worked with 
 ---
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvrajsb&theme=dark" width="48%" >
 
-### I write in
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvrajsb&layout=compact)
-
-
 ## 😂 A Dose of Humor!
 
 Want a laugh? Check out some random jokes below! 
